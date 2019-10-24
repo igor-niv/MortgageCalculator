@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Банк</string>
+    <string name="loan_purpose">Цель кредита</string>
+    <string name="apartment_price">Стоимость недвижимости (руб)</string>
+    <string name="wood_flooring">В доме имеются деревянные перекрытия</string>
+    <string name="header">Заполните заявку на ипотечный кредит и узнайте Вашу персональную процентную ставку</string>
+    <string name="year_building">Дом построен ранее 1950 года</string>
+    <string name="credit_term_years">Срок кредита (лет)</string>
+    <string name="credit_first_payment">Первоначальный взнос (руб)</string>
+    <string name="loaner">Категория заемщика</string>
+    <string name="bank_employee">Я сотрудник Банка</string>
+    <string name="age">Мой возраст (лет)</string>
+    <string name="get_rate_text">Рассчитать ставку по кредиту</string>
+
+    <string-array name="loan_purpose_list">
+        <item>Готовое жилье</item>
+        <item>Квартира в новостройке</item>
+    </string-array>
+
+</resources>
